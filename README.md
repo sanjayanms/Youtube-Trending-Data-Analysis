@@ -97,4 +97,4 @@ Key findings:
 
 ## 👤 Author
 
-[Your Name]
+Sanjayan Malamel Suresh
